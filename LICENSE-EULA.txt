@@ -1,0 +1,19 @@
+NetMonitor v7 - End User License Agreement
+Copyright (c) 2026 Omri Mam (Omrint). All rights reserved.
+
+1. Trial. You may install and use NetMonitor free of charge for 14 days for
+   evaluation. After the trial a paid activation key is required.
+2. License. A purchased activation key grants a non-exclusive, non-transferable
+   licence to run one copy of the licensed edition on the one computer the key
+   was issued for.
+3. Restrictions. You may not copy, distribute, rent, sublicense, modify,
+   decompile, disassemble or reverse engineer the software, or circumvent,
+   disable or tamper with the trial or activation mechanism, except as
+   expressly permitted by applicable law.
+4. Ownership. The software is licensed, not sold. All rights not expressly
+   granted remain with the author.
+5. No warranty. The software is provided "as is", without warranty of any kind.
+   To the maximum extent permitted by law the author is not liable for any
+   damages arising from its use.
+
+Contact: Omri768@gmail.com | WhatsApp 0504840045 | https://omrint.com
