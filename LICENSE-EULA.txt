@@ -1,5 +1,5 @@
 NetMonitor v7 - End User License Agreement
-Copyright (c) 2026 Omri Mam (Omrint). All rights reserved.
+Copyright (c) 2026 Omri Maman (Omri Solutions). All rights reserved.
 
 1. Trial. You may install and use NetMonitor free of charge for 14 days for
    evaluation. After the trial a paid activation key is required.
